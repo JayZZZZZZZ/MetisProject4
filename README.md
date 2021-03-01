@@ -2,7 +2,7 @@
 
 Steps: 
 
-1. Load Data & Data Cleaning
+1. Data Cleaning
 2. EDA
 4. Text Cleaning - Punctuation, Stopwords, Other issues
 5. Lemmatization
