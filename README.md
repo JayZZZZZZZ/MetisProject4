@@ -4,9 +4,10 @@ Steps:
 
 1. Load Data & Data Cleaning
 2. EDA
-3. Text Cleaning - Punctuation, Stopwords, Other issues
-4. Lemmatization
-5. Preprocessing - TF-IDF, PCA
-6. Topic Modeling - LDA, NMF
-7. K-means Clustering
-8. WordCloud, N-grams
+4. Text Cleaning - Punctuation, Stopwords, Other issues
+5. Lemmatization
+6. WordCloud, N-grams
+7. Preprocessing - TF-IDF, PCA
+8. Topic Modeling - LDA, NMF
+9. K-means Clustering
+
