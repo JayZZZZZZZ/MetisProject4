@@ -8,6 +8,6 @@ Steps:
 5. Lemmatization
 6. WordCloud, N-grams
 7. Preprocessing - TF-IDF, PCA
-8. Topic Modeling - LDA, NMF
+8. Topic Modeling - LDA, NMF models
 9. K-means Clustering
 
